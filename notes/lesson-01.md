@@ -19,3 +19,20 @@ Output: profbatsi
 Successfully installed Kali Linux
 using WSL and executed my first
 Linux command.
+### Identifying the Operating System
+
+Command:
+```bash
+cat /etc/os-release
+
+Command:
+
+```bash
+cat /etc/os-release
+```
+
+Purpose: Displays information about the installed Linux distribution.
+
+My result: Kali GNU/Linux Rolling 2026.2.
+
+Security relevance: Identifying the operating system helps administrators understand the environment before performing security assessments.
